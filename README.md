@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Business Intelligence, Machine Learning**
 
-- 💬 Ask me about **Java, Python**
+- 💬 Ask me about **Java, Python, Data analysis, Data Manipulation, Power BI**
 
 - 📫 How to reach me **aqibaltaf99@gmail.com**
 
